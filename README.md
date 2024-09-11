@@ -1,2 +1,1 @@
-# proxmox-templates
-Proxmox templates
+# Usefull LXC templates for Proxmox
